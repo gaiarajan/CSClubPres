@@ -1,1 +1,1 @@
-OpenCV and Python augmented reality
+OpenCV and Python augmented reality - follow along here
